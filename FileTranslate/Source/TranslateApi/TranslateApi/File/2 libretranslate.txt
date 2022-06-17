@@ -1,0 +1,46 @@
+-------------------------------------------------
+As a System, I required have users profiles.
+-------------------------------------------------
+-modificacion de tablas en la base de datos 
+-modificacion del modelo y controlador del login para validar el acceso con roles
+-control de validacion en los metodos del front
+
+___________________________________________________
+---------------------------------------------------
+As an Admin, I want to see the list of the translations
+---------------------------------------------------
+-conectar la api libretranslate a la bd
+-crear controladores y modelos para realizar los insert a la bd (nameFile,link,DateCreate,DateEnd,Status)
+_______________________________________________________
+
+----------------------------------------------------------------------
+As an Admin, I want to see the list of the translations
+As an User, I want to see only the translations I have made and not those of other users
+------------------------------------------------------------------------------
+crear unas peticiones via get para retornar una tabla con los datos (User,DateCreate,DateEnd,Status,Link) -Genereal solo para admin
+crear unas peticiones via get para retornar una tabla con los datos (User,DateCreate,DateEnd,Status,Link) -Genereal solo para Usuario 
+
+
+modificar la base de datos 
+modificar controllador de login
+modificar interface de login
+modificar modelos de login
+realizar valicion por roles 
+modficar las validacion de ingreso desde el front 
+
+modify the database  (3)
+modify login controller (2)
+modify login interface (2)
+modify login models (2)
+perform role validation (3)
+modify the entry validation from the front (4)
+
+
+
+
+modify the database
+modify login controller
+modify login interface
+modify login models
+perform role validation
+modify the entry validation from the front
